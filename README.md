@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-搜源指南
+搜源指南（搜索各类直播源）
 https://github.com/tvsearch/tvsearch/wiki
 
 tg交流
