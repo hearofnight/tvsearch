@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+搜源指南
+https://github.com/tvsearch/tvsearch/wiki
+
+tg交流
+https://t.me/+h88GvU-jd6c3MjE1
+
+软件下载（仅支持win10+ , 64 位操作系统）
+https://github.com/tvsearch/tvsearch/releases
